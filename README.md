@@ -5,7 +5,10 @@ My first goal was to build a MCO (MIDI controlled oscillator) as compared to the
 
 ![Picture](/Synth.png)
 
-This is a blog about my experiments.
+This is a blog about my experiments:
+
+https://github.com/jean-claudeF/TeensySynth/blob/main/TeensySynth_JCF.pdf
+
 It was important for me to go the slow path, trying to understand everything I do, and going on with small steps.
 
 Thanks a lot to Paul Stoffregen for his wonderful Teensy audio library, and to Notes and Volts from whom I borrowed some ideas, especially the key buffer.
