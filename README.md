@@ -15,6 +15,8 @@ Thanks a lot to Paul Stoffregen for his wonderful Teensy audio library, and to N
 
 Thanks also a lot to manicksan for his wonderful tool:
 https://manicken.github.io/
+I have begun writing a documentation on it:
+https://github.com/jean-claudeF/TeensySynth/blob/main/MannickenAudioTool.pdf
 
 jean-claude.feltes@education.lu
 
