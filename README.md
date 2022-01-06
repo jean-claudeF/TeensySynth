@@ -14,9 +14,18 @@ It was important for me to go the slow path, trying to understand everything I d
 Thanks a lot to Paul Stoffregen for his wonderful Teensy audio library, and to Notes and Volts from whom I borrowed some ideas, especially the key buffer.
 
 Thanks also a lot to manicksan for his wonderful tool:
+
 https://manicken.github.io/
+
 I have begun writing a documentation on it:
+
 https://github.com/jean-claudeF/TeensySynth/blob/main/MannickenAudioTool.pdf
+
+
+One of Mannicken's examples is a rather complex polysynth. To better understand how it works, I tried to grasp its basic structure:
+
+https://github.com/jean-claudeF/TeensySynth/blob/main/Mannicken_polysynth_meltdown.pdf
+
 
 jean-claude.feltes@education.lu
 
