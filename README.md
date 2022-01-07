@@ -13,11 +13,16 @@ It was important for me to go the slow path, trying to understand everything I d
 
 Thanks a lot to Paul Stoffregen for his wonderful Teensy audio library, and to Notes and Volts from whom I borrowed some ideas, especially the key buffer.
 
+Thanks to Ken Wessen for his very good tutorial about musical synthesis, including Arduino examples:
+
+http://thewessens.net/synthbook/
+
+
 Thanks also a lot to manicksan for his wonderful tool:
 
 https://manicken.github.io/
 
-I have begun writing a documentation on it:
+I have begun writing a documentation on starting with it:
 
 https://github.com/jean-claudeF/TeensySynth/blob/main/MannickenAudioTool.pdf
 
